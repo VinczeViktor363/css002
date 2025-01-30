@@ -17,11 +17,11 @@ Ez a projekt tartalmazza egy egyszerű weboldal feladatát, amely a `Szajkó` c�
    - A `.container` osztályban 15%-os margót, navy háttérszínt és fehér betűszínt állít be.
    - A `h1` elem szövege középre legyen igazítva.
 
+![Minta](minta_0002.png)
+
 ## Tesztelés futtatása:
 
 A teszteléshez használja a következő parancsot:
 
 ```bash
 pytest
-
-![Minta](minta_0002.png)
