@@ -23,3 +23,5 @@ A teszteléshez használja a következő parancsot:
 
 ```bash
 pytest
+
+![Minta](minta_0002.png)
